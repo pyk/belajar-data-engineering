@@ -30,4 +30,12 @@ Sebelum belajar untuk menjadi seorang Data Engineer, kita harus tau
 seorang Data Engineer. Di bagian pertama ini kita akan membahas hal tersebut.
 
 ### Pekerjaan Data Engineer
+Untuk mengetahui daftar pekerjaan seorang Data Engineer, mari kita lihat langsung
+dari deskripsi pekerjaan Data Engineer dari beberapa startup di Indonesia
+seperti [GO-JEK](./jobs/GO-JEK.md), [Traveloka](./jobs/traveloka.md)
+dan [Kumparan](./jobs/kumparan.md). Berikut rangkuman daftar pekerjaan
+dari deskripsinya:
+
+1.
+
 
